@@ -1,6 +1,6 @@
-# Cool Rarity
+# Cyber Komodos Rarity Tool
 
-Cool Rarity is an open source package for easy rarity score calculation. 
+The Cyber Komodos Rarity Tool is based on the Cool Rarity is an open source package for easy rarity score calculation. 
 
 Cool Rarity was born in a [Hackathon](https://github.com/punkscape/01-rarity-analyser-hackathon) hosted by [PunkScape](https://punkscape.xyz/), made with love by [Fukuball](https://twitter.com/fukuball). It is easy to configure for developers and easy to use for users, any ERC721 NFT collection with [OpenSea metadata stardard](https://docs.opensea.io/docs/metadata-standards) can use Cool Rarity as the rarity score calculation tool. If you have the collection metadata in hand, you can depoly Cool Rarity as your collection rarity tool in minues!
 
